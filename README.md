@@ -5,6 +5,6 @@ Setting up code base for a marketing agency, the focus of this site is to follow
 
 https://sarahkubik.github.io/HW_ASSIGNMENT-1_SKK/
 
-HOMEWORK\HW_ASSIGNMENT-1_SKK\assets\images\sitecapture.jpeg
+HOMEWORK\HW_ASSIGNMENT-1_SKK\assets\images\sitecapture.jpg
 
 
