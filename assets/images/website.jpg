@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<!-- saved from url=(0084)http://127.0.0.1:5500/HOMEWORK/HW_ASSIGNMENT-1_SKK/index.html#social-media-marketing -->
+<html lang="en-us"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    
+    <title>website</title>
+<link rel="stylesheet" href="./website_files/style.css"></head>
+
+<body>
+    <header>
+    <div class="header">
+        <h1>Horiseon</h1>
+            <span class="seo">
+        <div class="right">
+            <ul>
+                <li>
+                    <a href="http://127.0.0.1:5500/HOMEWORK/HW_ASSIGNMENT-1_SKK/index.html#search-engine-optimization">Search Engine Optimization</a>
+                </li>
+                <li>
+                    <a href="http://127.0.0.1:5500/HOMEWORK/HW_ASSIGNMENT-1_SKK/index.html#online-reputation-management">Online Reputation Management</a>
+                </li>
+                <li>
+                    <a href="http://127.0.0.1:5500/HOMEWORK/HW_ASSIGNMENT-1_SKK/index.html#social-media-marketing">Social Media Marketing</a>
+                </li>
+            </ul>
+    </div></span></div></header>
+    
+    <section>
+    <div class="hero"></div>
+    <div class="content">
+        <div class="search-engine-optimization">
+            <img src="./website_files/search-engine-optimization.jpg" alt="Notebook with SEO word map" class="float-left"> 
+            <h2>Search Engine Optimization</h2>
+            <p>
+                The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
+            </p>
+        </div>
+        <div id="online-reputation-management" class="online-reputation-management">
+            <img src="./website_files/online-reputation-management.jpg" alt="Laptop with word reputation" class="float-right">
+            <h2>Online Reputation Management</h2>
+            <p>
+                The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
+            </p>
+        </div>
+        <div id="social-media-marketing" class="social-media-marketing">
+            <img src="./website_files/social-media-marketing.jpg" alt="Table with thought clouds,icons showing the action of collaboration" class="float-left">
+            <h2>Social Media Marketing</h2>
+            <p>
+                Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
+            </p>
+        </div>
+    </div>
+    <div class="benefits">
+        <div class="benefit-lead">
+            <h3>Lead Generation</h3>
+            <img src="./website_files/lead-generation.png" img="" alt="placeholder Image">
+            <p>
+                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+            </p>
+        </div>
+        <div class="benefit-brand">
+            <h3>Brand Awareness</h3>
+            <img src="./website_files/brand-awareness.png" alt="placeholder Image">
+            <p>
+                Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
+            </p>
+        </div>
+        <div class="benefit-cost">
+            <h3>Cost Management</h3>
+            <img src="./website_files/cost-management.png" alt="placeholder Image">
+            <p>
+                As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
+            </p>
+        </div>
+    </div></section>
+    <footer>
+    <div class="footer">
+        <h2>Made with ❤️️ by Horiseon</h2>
+        <p>
+            © 2019 Horiseon Social Solution Services, Inc.
+        </p>
+    </div>
+    </footer>
+<!-- Code injected by live-server -->
+<script type="text/javascript">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+<castify-draw-container ng-version="11.1.1"></castify-draw-container><div id="cdk-describedby-message-container" aria-hidden="true" style="display: none;"><div id="cdk-describedby-message-0">End Recording (Alt+Shift+R)</div><div id="cdk-describedby-message-1">Mouse Pointer</div><div id="cdk-describedby-message-2">Pen (Alt+P)</div><div id="cdk-describedby-message-3">Rectangle (Alt+R)</div><div id="cdk-describedby-message-4">Stickers (Alt+S)</div><div id="cdk-describedby-message-5">Eraser (Alt+E)</div><div id="cdk-describedby-message-6">Embed Webcam (Alt+W)</div><div id="cdk-describedby-message-8">Resume Recording (Alt+Shift+P)</div></div></body></html>
